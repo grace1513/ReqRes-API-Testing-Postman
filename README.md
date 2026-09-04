@@ -131,11 +131,14 @@ All seven requests (Login → Get All Users → Get Single User → Create User 
 | Patch Update User | 200 | PASS |
 | Delete User | 204 | PASS |
 
+![Collection Runner — 11/11 tests passed](screenshots/09-test-results.png)
+
+
 ## 7. Deliverables in This Repository
 
 ```
 .
-├── README.md                                      ← this report
+├── README.md                                      
 ├── collection/
 │   └── reqres-api.postman_collection.json
 ├── environment/
