@@ -1,6 +1,6 @@
 # API Testing Assignment — ReqRes API
 
-**Author:** Grace UMWIZA (Student ID: 1406691762)
+**Author:** Grace UMWIZA 
 
 ## 1. API Choice and Base URL
 
@@ -147,7 +147,7 @@ All seven requests (Login → Get All Users → Get Single User → Create User 
 │   └── report.docx
 └── screenshots/
     └── (Collection Runner and request/response screenshots)
-    
+
 ```
 
 **Note:** The exported environment file has all values (`base_url`, `auth_token`, `api_key`, `user_id`) left empty before being committed to this repository — no real credentials are included.
