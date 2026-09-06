@@ -146,7 +146,7 @@ All seven requests (Login → Get All Users → Get Single User → Create User 
 ├── docs/
 │   └── ReqRes-API-Testing_Reports.pdf
 └── screenshots/
-    └── (Collection Runner and request/response screenshots)
+    └──09-test-results.png
 
 ```
 
