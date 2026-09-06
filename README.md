@@ -144,7 +144,7 @@ All seven requests (Login → Get All Users → Get Single User → Create User 
 ├── environment/
 │   └── reqres-env.postman_environment.json
 ├── docs/
-│   └── report.docx
+│   └── ReqRes-API-Testing_Reports.pdf
 └── screenshots/
     └── (Collection Runner and request/response screenshots)
 
