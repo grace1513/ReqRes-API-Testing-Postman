@@ -138,13 +138,16 @@ All seven requests (Login → Get All Users → Get Single User → Create User 
 
 ```
 .
-├── README.md                                      
+├── README.md
 ├── collection/
 │   └── reqres-api.postman_collection.json
 ├── environment/
 │   └── reqres-env.postman_environment.json
+├── docs/
+│   └── report.docx
 └── screenshots/
     └── (Collection Runner and request/response screenshots)
+    
 ```
 
 **Note:** The exported environment file has all values (`base_url`, `auth_token`, `api_key`, `user_id`) left empty before being committed to this repository — no real credentials are included.
