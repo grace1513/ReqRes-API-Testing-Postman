@@ -153,3 +153,7 @@ All seven requests (Login → Get All Users → Get Single User → Create User 
 **Note:** The exported environment file has all values (`base_url`, `auth_token`, `api_key`, `user_id`) left empty before being committed to this repository — no real credentials are included.
 
 **Note on screenshots:** Full screenshots of every request/response (authentication, GET, POST, PUT, PATCH, DELETE, environment variables, and the Collection Runner run) are included in the separate written report submitted alongside this repository, rather than duplicated here.
+
+## 8.ReqRes API Testing Postman Report
+
+https://docs.google.com/document/d/1aL29XfHjtvOp4enXWFAjtMoYBeHklqxw/edit?usp=sharing&ouid=113789423289472810486&rtpof=true&sd=true
